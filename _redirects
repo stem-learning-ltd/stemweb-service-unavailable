@@ -1,3 +1,4 @@
+http://www.stem.org.uk/* https://www.stem.org.uk/:splat 301!
 /   /index.html   503!
 /index.html   /index.html   503!
 /*   /index.html   503
