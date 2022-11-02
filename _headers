@@ -1,0 +1,7 @@
+/*
+  Retry-After: 900
+  X-Robots-Tag: noindex
+  cache-control: max-age=0
+  cache-control: no-cache
+  cache-control: no-store
+  cache-control: must-revalidate
